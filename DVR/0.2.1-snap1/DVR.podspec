@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/venmo/DVR"
   s.author       = { "Venmo" => "https://github.com/venmo" }
-  s.license      = { :type => "MIT", :file => "LICENSE.md" }
+  s.license      = { :type => "MIT", :file => "LICENSE" }
 
   s.ios.deployment_target = "8.0"
   s.osx.deployment_target = "10.10"
